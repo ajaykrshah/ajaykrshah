@@ -13,9 +13,9 @@ Welcome to my GitHub profile! I'm a Senior Software Engineer specializing in the
 
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ajaykumshah&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ajaykrshah&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ajaykumshah&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ajaykrshah&layout=compact&theme=radical)
 
 ## 🔍 What I'm Currently Working On
 
